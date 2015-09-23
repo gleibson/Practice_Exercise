@@ -1,0 +1,4 @@
+﻿  MinimumValue.cpp
+d:\programação\visual studio 2013\projects\visual c++\practice_exercise\practice_exercise\minimumvalue.cpp(13): warning C4700: uninitialized local variable 'second' used
+d:\programação\visual studio 2013\projects\visual c++\practice_exercise\practice_exercise\minimumvalue.cpp(13): warning C4700: uninitialized local variable 'first' used
+  Practice_Exercise.vcxproj -> D:\Programação\Visual Studio 2013\Projects\Visual C++\Practice_Exercise\Debug\Practice_Exercise.exe
